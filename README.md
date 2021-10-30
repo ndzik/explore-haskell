@@ -5,4 +5,4 @@ Each topic will receive its own module and should contain some comments, where I
 If any wanderer finds themself stranding here, may your search be successful and maybe you can get something out of this repository here.
 
 # Topics
-* Studies on dependent Haskell/dependent types within Haskell
+* [Studies on dependent Haskell/dependent types within Haskell](https://github.com/ndzik/explore-haskell/tree/main/src/DependentTypes)
